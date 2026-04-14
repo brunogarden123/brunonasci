@@ -1,5 +1,5 @@
 import Menu from "./comp/Menu"
-import { b } from "./../comp"
+import { b } from "../comp"
 function Home() {
     return (
         <div> 
