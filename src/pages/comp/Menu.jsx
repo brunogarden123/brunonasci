@@ -4,6 +4,7 @@ function Menu() {
         <div>
             <menu className="horiz">
                 <li><Link to='/'>Home</Link></li>
+                <li><Link to='/info/contacts'>Contatos</Link></li>
             </menu>
         </div>
     )

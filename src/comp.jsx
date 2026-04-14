@@ -1,3 +1,4 @@
+import IComp from "./icomp"
 function A() {
     return <h1>1</h1>
 }
@@ -6,6 +7,14 @@ function B() {
     return <h1>2</h1>
 }
 export { B };
+
+export function Conts() {
+    return (
+        <div>
+            <IComp contact="(67) 1234-5678" type="WhatsApp"/>
+        </div>
+    )
+}
 export function C() {
     return (
         <div>
@@ -22,3 +31,4 @@ export function Welcome() {
         </div>
     )
 }
+
