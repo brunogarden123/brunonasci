@@ -5,4 +5,4 @@ export default a;
 function b() {
     return <h1>2</h1>
 }
-export { b};
+export { b };
