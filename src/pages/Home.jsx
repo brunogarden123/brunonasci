@@ -1,6 +1,9 @@
+import Menu from "./comp/Menu"
 function Home() {
     return (
-        <h1>Welcome</h1>
+        <div> 
+            <Menu />
+        </div>
     )
 }
 export default Home
