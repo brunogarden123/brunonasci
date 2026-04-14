@@ -1,10 +1,10 @@
 import Menu from "./comp/Menu"
-import { Cont } from "../comp"
+import { Conts } from "../comp"
 function Contact() {
     return (
         <div>
             <Menu />
-            <Cont />
+            <Conts />
         </div>
     )
 }
