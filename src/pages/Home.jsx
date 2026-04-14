@@ -1,11 +1,11 @@
 import Menu from "./comp/Menu"
-import { B } from "../comp"
+import { B, Welcome, C} from "../comp"
 function Home() {
     return (
         <div> 
             <Menu />
-           
-            <B />
+            <Welcome />
+            <C />
         </div>
     )
 }

@@ -3,6 +3,7 @@ function Menu() {
         <div>
             <menu className="horiz">
                 <li>Home</li>
+                
             </menu>
         </div>
     )
