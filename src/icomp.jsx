@@ -1,5 +1,5 @@
-export default function IComp({ type }, { contact }) {
+export default function IComp(props) {
     return(
-        <p>{type}:{contact}</p>
+        <p>{props.type}:{props.contact}</p>
     )
 }
