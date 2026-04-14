@@ -1,8 +1,8 @@
-function a() {
+function A() {
     return <h1>1</h1>
 }
 export default a;
-function b() {
+function B() {
     return <h1>2</h1>
 }
-export { b };
+export { B };
