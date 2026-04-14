@@ -1,5 +1,5 @@
 function App() {
-  return <h1>Projeto novo 😎</h1>
+  return <h1>Projeto novo 😎aaa</h1>
 }
 
 export default App
