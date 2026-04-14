@@ -1,9 +1,9 @@
+import {Link, Links} from 'react-router-dom'
 function Menu() {
     return (
         <div>
             <menu className="horiz">
-                <li>Home</li>
-                
+                <li><Link to='/'>Home</Link></li>
             </menu>
         </div>
     )
