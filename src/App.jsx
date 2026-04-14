@@ -1,6 +1,6 @@
 import {BrowserRouter, Routes, Route} from 'react-router-dom'
 import Home from "./pages/Home"
-import Secret from "./pages/Secret"
+import Secret from "./pages/secret"
 function App() {
   return (
   <BrowserRouter>
